@@ -1,4 +1,3 @@
-(https://cdn.jsdelivr.net/gh/AdminWhaleFall/SMSBoom@master/img/smsboom-logo.png)
 
 ![test](img/test2.gif)
 
