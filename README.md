@@ -293,39 +293,5 @@ Options:
 ![](img/webui-test.png)  
 ![](img/webui-test-2.png)  
 
-## 赞助
-[爱发电🔗](https://afdian.net/@smsboom)  
-
-
-<!-- **微/信 && 支/付宝🔗**  
-<center class="half">
-<img src="https://cdn.jsdelivr.net/gh/AdminWhaleFall/SMSBoom@master/img/wx_pay.jpg" width=40%/>
-<img src="https://cdn.jsdelivr.net/gh/AdminWhaleFall/SMSBoom@master/img/aliyun_pay.jpg" width=40%/>
-</center> -->
-
-> 赞助的金额将用于我每月治疗 **抑/郁症** 的支出.谢谢大家的支持和鼓励! **比心ing**
-
-<center class="half">
-根据中国相关法律法规,该图片不予展示.
-<img src="img/mypic.png" width=70%/>
-</center>
-
-> ~~丑陋的自拍 )逃~~
-
-## Star ♥ 趋势图
-
-<img src="https://starchart.cc/adminwhalefall/smsboom.svg">
-
-## ✨讨论
-
-欢迎加入讨论对项目提出问题和建议！！！mua!
-
-### 企鹅🐧群
-> 企鹅群不允许讨论相关敏感信息!违者上飞机票✈
-
-![企鹅群 QR](https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/20220409151539.jpg)
-
-### Telegram Channel (TG群组)
-> 涉及敏/感信息,政/治,民/主运动话题请到 **TG群聊**
 
 [SMSBoomPro](https://t.me/SMSBoomPro)
